@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import './table.css';
 
-const Heading = ({headers, backgroundColor,  sortData }) => {
+const Heading = ({headers, backgroundColor}) => {
 
   return (
     <tr style={backgroundColor && {backgroundColor}}>
@@ -40,13 +40,7 @@ const Rows = ({data}) => {
 
 export const Table = ({ primary, backgroundColor, ...props }) => {
   const {headers, data} = props;
-  // const [sort, setSort] = useState(false);
-
-  // function sortData () {
-  //   setSort(!sort);
-  //   data.sort((a, b) => a["Rating"] - b["Rating"]);
-  // }
-
+ 
   return (
     <table
         type="table"
