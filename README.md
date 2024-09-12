@@ -28,7 +28,7 @@ npm link abhi-table
 
 ### `Usage`
 Here’s how you can use the abhi-table component in your React project:
-
+```
 import React from 'react';
 import {Table} from 'abhi-table';
 
@@ -49,6 +49,7 @@ const MyComponent = () => {
 };
 
 export default MyComponent;
+```
 
 ### `Props`
 `headers`: An array of strings representing the table headers.
