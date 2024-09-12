@@ -9,8 +9,6 @@ abhi-table is a simple and flexible React component that renders a table based o
 4.1- Option 1: Install from npm
      To install the package from npm, simply run:
 
-     bash
-     Copy code
      npm install abhi-table
 4.2- Option 2: Use npm link for local development
 If you want to modify the package or use it locally without publishing to npm, you can clone the repository and use npm link:
