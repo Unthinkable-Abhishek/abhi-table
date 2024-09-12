@@ -17,9 +17,11 @@ Clone the repository:
 
 git clone <repository-url>
 cd abhi-table
+
 Link the package globally:
 
 npm link
+
 In your project directory, link abhi-table:
 
 npm link abhi-table
