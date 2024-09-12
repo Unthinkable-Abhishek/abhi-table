@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "baseUrl": "./src",  // Adjust this to match your folder structure
+      "paths": {
+        "*": ["types/*"]
+      }
+    }
+}
+  

@@ -1,0 +1,14 @@
+.storybook-table--primary {
+    width: 750px;
+    overflow: scroll;
+}
+
+table, td{
+    border-bottom: 1px solid gainsboro;
+    border-collapse: collapse;
+    padding: 15px;
+}
+
+thead {
+    border-bottom: 1px solid gainsboro;
+}
