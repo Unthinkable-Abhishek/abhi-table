@@ -2,16 +2,15 @@
 abhi-table is a simple and flexible React component that renders a table based on provided headers and data. It supports two methods of usage: downloading it from npm or linking it locally to your project.
 
 ### `Features`
-[^1]: Dynamically renders a table from headers and data.
-[^2]: Easy to integrate into any React project.
-[^3]: Supports local development via npm link.
-[^4]: Installation
-[^4.1]: Option 1: Install from npm
+1. Dynamically renders a table from headers and data.
+2. Easy to integrate into any React project.
+3. Supports local development via npm link.
+Option 1: Install from npm
      To install the package from npm, simply run:
      ```
      npm install abhi-table
      ```
-[^4.2]: Option 2: Use npm link for local development
+Option 2: Use npm link for local development
 If you want to modify the package or use it locally without publishing to npm, you can clone the repository and use npm link:
 
 Clone the repository:
